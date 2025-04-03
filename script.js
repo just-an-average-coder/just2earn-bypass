@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Timer Speed up
+// @name         Just2earn Bypass
 // @namespace    http://tampermonkey.net/
 // @version      2025-04-02
 // @description  try to take over the world!
